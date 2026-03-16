@@ -49,6 +49,9 @@ body{
     position: relative;
     z-index: 100;
     overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 /* ========================================
@@ -1429,27 +1432,5 @@ body{
 }
 
 
-:root {
-  /* ========================================
-     🎨 GOLDEN LUXURY THEME
-     ======================================== */
-  
-  /* 1. Common Colors */
-  --main-border-color: #d4af37;        /* Luxury gold border */
-  --highlight-text-color: #ffd700;     /* Bright gold highlight text */
-  --main-bg-dark: #0b0b0b;             /* Deep black background */
 
-  /* 2. Team 1 (Golden Royal Theme) */
-  --team1-primary: #d4af37;            /* Gold top bar */
-  --team1-secondary: #8b6b00;          /* Dark gold bottom bar */
-  --team1-card-bg: #1a1400;            /* Dark golden card background */
-  --team1-player-bg: #ffd700;          /* Player box gold gradient start */
-  --team1-player-border: #ffdf00;      /* Bright gold border */
 
-  /* 3. Team 2 (Dark Gold Theme) */
-  --team2-primary: #c9a227;            /* Royal gold */
-  --team2-secondary: #7a5c00;          /* Dark bronze gold */
-  --team2-card-bg: #1f1600;            /* Dark golden brown */
-  --team2-player-bg: #b8960b;          /* Deep gold */
-  --team2-player-border: #ffd700;      /* Bright gold border */
-}
