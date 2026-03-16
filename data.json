@@ -1,0 +1,729 @@
+{
+    "match_info": "ABT vs LAHB,  19th T20, National T20 Cup 2026 live",
+    "toss": "LAHB won the toss and chose to bat",
+    "team_form": {
+        "Abbottabad Region": {
+            "flag_url": "https://cricketvectors.akamaized.net/Teams/TK.png",
+            "form": [
+                "L",
+                "W",
+                "W",
+                "L",
+                "W"
+            ]
+        },
+        "Lahore Region Blues": {
+            "flag_url": "https://cricketvectors.akamaized.net/Teams/63.png",
+            "form": [
+                "L",
+                "L",
+                "L",
+                "W",
+                "W"
+            ]
+        }
+    },
+    "head_to_head": {
+        "team1": {
+            "name": "ABT",
+            "flag_url": "https://cricketvectors.akamaized.net/Teams/TK.png",
+            "wins": "1"
+        },
+        "team2": {
+            "name": "LAHB",
+            "flag_url": "https://cricketvectors.akamaized.net/Teams/63.png",
+            "wins": "0"
+        }
+    },
+    "team_comparison": [
+        {
+            "metric": "Matches Played",
+            "team1_value": "10",
+            "team2_value": "10"
+        },
+        {
+            "metric": "Win",
+            "team1_value": "60%",
+            "team2_value": "50%"
+        },
+        {
+            "metric": "Avg Score",
+            "team1_value": "149",
+            "team2_value": "134"
+        },
+        {
+            "metric": "Highest Score",
+            "team1_value": "205",
+            "team2_value": "197"
+        },
+        {
+            "metric": "Lowest Score",
+            "team1_value": "87",
+            "team2_value": "86"
+        }
+    ],
+    "weather": {
+        "location": "Imran Khan Cricket Stadium, Peshawar",
+        "temperature": "17.8˚C",
+        "condition": "Partly cloudy",
+        "humidity": "63%",
+        "rain_chance": "3 % Chance"
+    },
+    "venue_stats": {
+        "pace_wickets": "59 Wkt",
+        "spin_wickets": "36 Wkt",
+        "pace_percentage": "62%",
+        "spin_percentage": "38%"
+    },
+    "live_score": {
+        "team": "ABT",
+        "score": "87-2",
+        "overs": "(8.2)",
+        "status": "",
+        "last_ball": "Abbottabad Region won by 8 wickets 🏆"
+    },
+    "batsmen": [
+        {
+            "name": "K Ghulam",
+            "runs": "46",
+            "balls": "23",
+            "4s": "2",
+            "6s": "4",
+            "sr": "200.00",
+            "head_image_url": "https://cricketvectors.akamaized.net/players/org/31Y.png",
+            "jersey_image_url": "https://cricketvectors.akamaized.net/jersey/limited/org/TK.png"
+        },
+        {
+            "name": "A Khan",
+            "runs": "5",
+            "balls": "6",
+            "4s": "0",
+            "6s": "0",
+            "sr": "83.33",
+            "head_image_url": "https://cricketvectors.akamaized.net/players/org/9T5.png",
+            "jersey_image_url": "https://cricketvectors.akamaized.net/jersey/limited/org/TK.png"
+        }
+    ],
+    "bowler": {
+        "name": "A Raza Snr",
+        "figures": "0-17",
+        "overs": "1.2",
+        "econ": "12.75",
+        "head_image_url": "https://cricketvectors.akamaized.net/players/org/9P9.png",
+        "jersey_image_url": "https://cricketvectors.akamaized.net/jersey/limited/org/63.png"
+    },
+    "last_wicket": "Shahzaib Khan 32(19)",
+    "partnership": "30(15)",
+    "commentary": [],
+    "win_predictor": {},
+    "playing_xi": {
+        "ABT": [
+            {
+                "name": "Afaq Khan (WK)",
+                "role": "Batter",
+                "profile_url": "https://crex.com/player/afaq-khan-9T5",
+                "head_image_url": "https://cricketvectors.akamaized.net/players/org/9T5.png?impolicy=pv_web",
+                "jersey_image_url": "https://cricketvectors.akamaized.net/jersey/limited/org/TK.png?impolicy=tj_web",
+                "batting_stats": []
+            },
+            {
+                "name": "Fakhar Zaman (C)",
+                "role": "Batter",
+                "profile_url": "https://crex.com/player/fakhar-zaman-H6",
+                "head_image_url": "https://cricketvectors.akamaized.net/players/org/H6.png?impolicy=pv_web",
+                "jersey_image_url": "https://cricketvectors.akamaized.net/jersey/limited/org/TK.png?impolicy=tj_web",
+                "batting_stats": [
+                    {
+                        "Format": "ODI",
+                        "Mat": "92",
+                        "Inn": "91",
+                        "R": "3861",
+                        "100s": "11",
+                        "50s": "19",
+                        "HS": "210",
+                        "SR": "93.15",
+                        "Avg": "45.42",
+                        "Fours": "432",
+                        "Sixes": "83",
+                        "Duck": "--",
+                        "Rank": "--"
+                    },
+                    {
+                        "Format": "T20I",
+                        "Mat": "120",
+                        "Inn": "110",
+                        "R": "2494",
+                        "100s": "0",
+                        "50s": "14",
+                        "HS": "91",
+                        "SR": "132.52",
+                        "Avg": "23.98",
+                        "Fours": "233",
+                        "Sixes": "99",
+                        "Duck": "--",
+                        "Rank": "--"
+                    },
+                    {
+                        "Format": "Test",
+                        "Mat": "3",
+                        "Inn": "6",
+                        "R": "192",
+                        "100s": "0",
+                        "50s": "2",
+                        "HS": "94",
+                        "SR": "53.48",
+                        "Avg": "32.00",
+                        "Fours": "20",
+                        "Sixes": "1",
+                        "Duck": "--",
+                        "Rank": "--"
+                    },
+                    {
+                        "Format": "BBL",
+                        "Mat": "2",
+                        "Inn": "2",
+                        "R": "6",
+                        "100s": "0",
+                        "50s": "0",
+                        "HS": "3",
+                        "SR": "37.50",
+                        "Avg": "3.00",
+                        "Fours": "0",
+                        "Sixes": "0",
+                        "Duck": "--",
+                        "Rank": "--"
+                    },
+                    {
+                        "Format": "CPL",
+                        "Mat": "5",
+                        "Inn": "5",
+                        "R": "159",
+                        "100s": "0",
+                        "50s": "0",
+                        "HS": "43",
+                        "SR": "133.61",
+                        "Avg": "31.80",
+                        "Fours": "17",
+                        "Sixes": "6",
+                        "Duck": "--",
+                        "Rank": "--"
+                    },
+                    {
+                        "Format": "PSL",
+                        "Mat": "97",
+                        "Inn": "97",
+                        "R": "2952",
+                        "100s": "2",
+                        "50s": "23",
+                        "HS": "115",
+                        "SR": "142.06",
+                        "Avg": "30.75",
+                        "Fours": "282",
+                        "Sixes": "127",
+                        "Duck": "--",
+                        "Rank": "--"
+                    },
+                    {
+                        "Format": "WC ODI",
+                        "Mat": "12",
+                        "Inn": "12",
+                        "R": "406",
+                        "100s": "1",
+                        "50s": "2",
+                        "HS": "126",
+                        "SR": "100.00",
+                        "Avg": "36.91",
+                        "Fours": "38",
+                        "Sixes": "21",
+                        "Duck": "--",
+                        "Rank": "--"
+                    }
+                ]
+            },
+            {
+                "name": "Arshad Iqbal",
+                "role": "Bowler",
+                "profile_url": "https://crex.com/player/arshad-iqbal-1DU",
+                "head_image_url": "https://cricketvectors.akamaized.net/players/org/1DU.png?impolicy=pv_web",
+                "jersey_image_url": "https://cricketvectors.akamaized.net/jersey/limited/org/TK.png?impolicy=tj_web",
+                "batting_stats": [
+                    {
+                        "Format": "T20I",
+                        "Mat": "3",
+                        "Inn": "2",
+                        "R": "0",
+                        "100s": "0",
+                        "50s": "0",
+                        "HS": "0",
+                        "SR": "0.00",
+                        "Avg": "0.00",
+                        "Fours": "0",
+                        "Sixes": "0",
+                        "Duck": "--",
+                        "Rank": "--"
+                    },
+                    {
+                        "Format": "PSL",
+                        "Mat": "24",
+                        "Inn": "4",
+                        "R": "5",
+                        "100s": "0",
+                        "50s": "0",
+                        "HS": "2",
+                        "SR": "45.45",
+                        "Avg": "5.00",
+                        "Fours": "0",
+                        "Sixes": "0",
+                        "Duck": "--",
+                        "Rank": "--"
+                    }
+                ]
+            },
+            {
+                "name": "Fayyaz Khan",
+                "role": "Bowler",
+                "profile_url": "https://crex.com/player/fayyaz-khan-CYJ",
+                "head_image_url": "https://cricketvectors.akamaized.net/players/org/CYJ.png?impolicy=pv_web",
+                "jersey_image_url": "https://cricketvectors.akamaized.net/jersey/limited/org/TK.png?impolicy=tj_web",
+                "batting_stats": []
+            },
+            {
+                "name": "Kamran Ghulam",
+                "role": "All Rounder",
+                "profile_url": "https://crex.com/player/kamran-ghulam-31Y",
+                "head_image_url": "https://cricketvectors.akamaized.net/players/org/31Y.png?impolicy=pv_web",
+                "jersey_image_url": "https://cricketvectors.akamaized.net/jersey/limited/org/TK.png?impolicy=tj_web",
+                "batting_stats": [
+                    {
+                        "Format": "ODI",
+                        "Mat": "11",
+                        "Inn": "7",
+                        "R": "210",
+                        "100s": "1",
+                        "50s": "1",
+                        "HS": "103",
+                        "SR": "99.06",
+                        "Avg": "30.00",
+                        "Fours": "19",
+                        "Sixes": "9",
+                        "Duck": "--",
+                        "Rank": "--"
+                    },
+                    {
+                        "Format": "Test",
+                        "Mat": "6",
+                        "Inn": "11",
+                        "R": "312",
+                        "100s": "1",
+                        "50s": "1",
+                        "HS": "118",
+                        "SR": "56.52",
+                        "Avg": "28.36",
+                        "Fours": "39",
+                        "Sixes": "2",
+                        "Duck": "--",
+                        "Rank": "--"
+                    },
+                    {
+                        "Format": "PSL",
+                        "Mat": "30",
+                        "Inn": "29",
+                        "R": "593",
+                        "100s": "0",
+                        "50s": "2",
+                        "HS": "55",
+                        "SR": "121.52",
+                        "Avg": "23.72",
+                        "Fours": "48",
+                        "Sixes": "20",
+                        "Duck": "--",
+                        "Rank": "--"
+                    }
+                ]
+            },
+            {
+                "name": "Khalid Usman",
+                "role": "All Rounder",
+                "profile_url": "https://crex.com/player/khalid-usman-3CE",
+                "head_image_url": "https://cricketvectors.akamaized.net/players/org/3CE.png?impolicy=pv_web",
+                "jersey_image_url": "https://cricketvectors.akamaized.net/jersey/limited/org/TK.png?impolicy=tj_web",
+                "batting_stats": [
+                    {
+                        "Format": "PSL",
+                        "Mat": "4",
+                        "Inn": "3",
+                        "R": "43",
+                        "100s": "0",
+                        "50s": "0",
+                        "HS": "19",
+                        "SR": "126.47",
+                        "Avg": "43.00",
+                        "Fours": "3",
+                        "Sixes": "1",
+                        "Duck": "--",
+                        "Rank": "--"
+                    }
+                ]
+            },
+            {
+                "name": "Khushdil Shah",
+                "role": "All Rounder",
+                "profile_url": "https://crex.com/player/khushdil-shah-13R",
+                "head_image_url": "https://cricketvectors.akamaized.net/players/org/13R.png?impolicy=pv_web",
+                "jersey_image_url": "https://cricketvectors.akamaized.net/jersey/limited/org/TK.png?impolicy=tj_web",
+                "batting_stats": [
+                    {
+                        "Format": "ODI",
+                        "Mat": "15",
+                        "Inn": "12",
+                        "R": "328",
+                        "100s": "0",
+                        "50s": "1",
+                        "HS": "69",
+                        "SR": "98.20",
+                        "Avg": "32.80",
+                        "Fours": "25",
+                        "Sixes": "10",
+                        "Duck": "--",
+                        "Rank": "--"
+                    },
+                    {
+                        "Format": "T20I",
+                        "Mat": "38",
+                        "Inn": "33",
+                        "R": "434",
+                        "100s": "0",
+                        "50s": "0",
+                        "HS": "36",
+                        "SR": "104.08",
+                        "Avg": "17.36",
+                        "Fours": "27",
+                        "Sixes": "20",
+                        "Duck": "--",
+                        "Rank": "--"
+                    },
+                    {
+                        "Format": "BPL",
+                        "Mat": "38",
+                        "Inn": "34",
+                        "R": "831",
+                        "100s": "0",
+                        "50s": "3",
+                        "HS": "73",
+                        "SR": "160.74",
+                        "Avg": "39.57",
+                        "Fours": "57",
+                        "Sixes": "56",
+                        "Duck": "--",
+                        "Rank": "--"
+                    },
+                    {
+                        "Format": "PSL",
+                        "Mat": "73",
+                        "Inn": "62",
+                        "R": "1034",
+                        "100s": "0",
+                        "50s": "1",
+                        "HS": "70",
+                        "SR": "147.08",
+                        "Avg": "28.72",
+                        "Fours": "82",
+                        "Sixes": "50",
+                        "Duck": "--",
+                        "Rank": "--"
+                    }
+                ]
+            },
+            {
+                "name": "Razaullah",
+                "role": "Bowler",
+                "profile_url": "https://crex.com/player/razaullah-M5D",
+                "head_image_url": "https://cricketvectors.akamaized.net/players/org/M5D.png?impolicy=pv_web",
+                "jersey_image_url": "https://cricketvectors.akamaized.net/jersey/limited/org/TK.png?impolicy=tj_web",
+                "batting_stats": []
+            },
+            {
+                "name": "Shadab Khan",
+                "role": "All Rounder",
+                "profile_url": "https://crex.com/player/shadab-khan-GE",
+                "head_image_url": "https://cricketvectors.akamaized.net/players/org/GE.png?impolicy=pv_web",
+                "jersey_image_url": "https://cricketvectors.akamaized.net/jersey/limited/org/TK.png?impolicy=tj_web",
+                "batting_stats": [
+                    {
+                        "Format": "ODI",
+                        "Mat": "70",
+                        "Inn": "44",
+                        "R": "855",
+                        "100s": "0",
+                        "50s": "4",
+                        "HS": "86",
+                        "SR": "85.76",
+                        "Avg": "25.91",
+                        "Fours": "51",
+                        "Sixes": "19",
+                        "Duck": "--",
+                        "Rank": "--"
+                    },
+                    {
+                        "Format": "T20I",
+                        "Mat": "124",
+                        "Inn": "69",
+                        "R": "1009",
+                        "100s": "0",
+                        "50s": "1",
+                        "HS": "52",
+                        "SR": "144.14",
+                        "Avg": "19.40",
+                        "Fours": "73",
+                        "Sixes": "50",
+                        "Duck": "--",
+                        "Rank": "--"
+                    },
+                    {
+                        "Format": "Test",
+                        "Mat": "6",
+                        "Inn": "11",
+                        "R": "300",
+                        "100s": "0",
+                        "50s": "3",
+                        "HS": "56",
+                        "SR": "62.63",
+                        "Avg": "33.33",
+                        "Fours": "38",
+                        "Sixes": "0",
+                        "Duck": "--",
+                        "Rank": "--"
+                    },
+                    {
+                        "Format": "BBL",
+                        "Mat": "18",
+                        "Inn": "13",
+                        "R": "182",
+                        "100s": "0",
+                        "50s": "0",
+                        "HS": "41",
+                        "SR": "118.18",
+                        "Avg": "15.17",
+                        "Fours": "13",
+                        "Sixes": "5",
+                        "Duck": "--",
+                        "Rank": "--"
+                    },
+                    {
+                        "Format": "ABU DHABI",
+                        "Mat": "10",
+                        "Inn": "9",
+                        "R": "92",
+                        "100s": "0",
+                        "50s": "0",
+                        "HS": "25",
+                        "SR": "204.44",
+                        "Avg": "23.00",
+                        "Fours": "4",
+                        "Sixes": "9",
+                        "Duck": "--",
+                        "Rank": "--"
+                    },
+                    {
+                        "Format": "PSL",
+                        "Mat": "94",
+                        "Inn": "77",
+                        "R": "1413",
+                        "100s": "0",
+                        "50s": "8",
+                        "HS": "91",
+                        "SR": "141.16",
+                        "Avg": "20.78",
+                        "Fours": "100",
+                        "Sixes": "75",
+                        "Duck": "--",
+                        "Rank": "--"
+                    },
+                    {
+                        "Format": "100B",
+                        "Mat": "3",
+                        "Inn": "3",
+                        "R": "6",
+                        "100s": "0",
+                        "50s": "0",
+                        "HS": "4",
+                        "SR": "46.15",
+                        "Avg": "2.00",
+                        "Fours": "0",
+                        "Sixes": "0",
+                        "Duck": "--",
+                        "Rank": "--"
+                    },
+                    {
+                        "Format": "T20-Blast",
+                        "Mat": "20",
+                        "Inn": "20",
+                        "R": "352",
+                        "100s": "0",
+                        "50s": "2",
+                        "HS": "87",
+                        "SR": "140.24",
+                        "Avg": "19.56",
+                        "Fours": "23",
+                        "Sixes": "19",
+                        "Duck": "--",
+                        "Rank": "--"
+                    },
+                    {
+                        "Format": "WC ODI",
+                        "Mat": "13",
+                        "Inn": "11",
+                        "R": "164",
+                        "100s": "0",
+                        "50s": "0",
+                        "HS": "43",
+                        "SR": "103.14",
+                        "Avg": "20.50",
+                        "Fours": "11",
+                        "Sixes": "4",
+                        "Duck": "--",
+                        "Rank": "--"
+                    }
+                ]
+            },
+            {
+                "name": "Shahab Khan",
+                "role": "Bowler",
+                "profile_url": "https://crex.com/player/shahab-khan-D0G",
+                "head_image_url": "https://cricketvectors.akamaized.net/players/org/D0G.png?impolicy=pv_web",
+                "jersey_image_url": "https://cricketvectors.akamaized.net/jersey/limited/org/TK.png?impolicy=tj_web",
+                "batting_stats": []
+            },
+            {
+                "name": "Shahzaib Khan",
+                "role": "Batter",
+                "profile_url": "https://crex.com/player/shahzaib-khan-9N2",
+                "head_image_url": "https://cricketvectors.akamaized.net/players/org/9N2.png?impolicy=pv_web",
+                "jersey_image_url": "https://cricketvectors.akamaized.net/jersey/limited/org/TK.png?impolicy=tj_web",
+                "batting_stats": []
+            }
+        ],
+        "LAHB": [
+            {
+                "name": "Umar Siddique (C)",
+                "role": "Batter",
+                "profile_url": "https://crex.com/player/umar-siddique-3H1",
+                "head_image_url": "https://cricketvectors.akamaized.net/players/org/3H1.png?impolicy=pv_web",
+                "jersey_image_url": "https://cricketvectors.akamaized.net/jersey/limited/org/63.png?impolicy=tj_web",
+                "batting_stats": [
+                    {
+                        "Format": "PSL",
+                        "Mat": "7",
+                        "Inn": "7",
+                        "R": "169",
+                        "100s": "0",
+                        "50s": "1",
+                        "HS": "53",
+                        "SR": "112.67",
+                        "Avg": "24.14",
+                        "Fours": "13",
+                        "Sixes": "8",
+                        "Duck": "--",
+                        "Rank": "--"
+                    }
+                ]
+            },
+            {
+                "name": "Hamza Zahoor (WK)",
+                "role": "Batter",
+                "profile_url": "https://crex.com/player/hamza-zahoor-MAZ",
+                "head_image_url": "https://cricketvectors.akamaized.net/players/org/MAZ.png?impolicy=pv_web",
+                "jersey_image_url": "https://cricketvectors.akamaized.net/jersey/limited/org/63.png?impolicy=tj_web",
+                "batting_stats": []
+            },
+            {
+                "name": "Abdullah Asif",
+                "role": "Batter",
+                "profile_url": "https://crex.com/player/abdullah-asif-NM3",
+                "head_image_url": "https://cricketvectors.akamaized.net/players/org/NM3.png?impolicy=pv_web",
+                "jersey_image_url": "https://cricketvectors.akamaized.net/jersey/limited/org/63.png?impolicy=tj_web",
+                "batting_stats": []
+            },
+            {
+                "name": "Ali Hassan Baloch",
+                "role": "Batter",
+                "profile_url": "https://crex.com/player/ali-hassan-baloch-CWF",
+                "head_image_url": "https://cricketvectors.akamaized.net/players/org/CWF.png?impolicy=pv_web",
+                "jersey_image_url": "https://cricketvectors.akamaized.net/jersey/limited/org/63.png?impolicy=tj_web",
+                "batting_stats": []
+            },
+            {
+                "name": "Ali Raza Snr",
+                "role": "All Rounder",
+                "profile_url": "https://crex.com/player/ali-raza-snr-9P9",
+                "head_image_url": "https://cricketvectors.akamaized.net/players/org/9P9.png?impolicy=pv_web",
+                "jersey_image_url": "https://cricketvectors.akamaized.net/jersey/limited/org/63.png?impolicy=tj_web",
+                "batting_stats": []
+            },
+            {
+                "name": "Ali Razzaq",
+                "role": "Bowler",
+                "profile_url": "https://crex.com/player/ali-razzaq-9LT",
+                "head_image_url": "https://cricketvectors.akamaized.net/players/org/9LT.png?impolicy=pv_web",
+                "jersey_image_url": "https://cricketvectors.akamaized.net/jersey/limited/org/63.png?impolicy=tj_web",
+                "batting_stats": []
+            },
+            {
+                "name": "Asadullah",
+                "role": "All Rounder",
+                "profile_url": "https://crex.com/player/asadullah-CPJ",
+                "head_image_url": "https://cricketvectors.akamaized.net/players/org/CPJ.png?impolicy=pv_web",
+                "jersey_image_url": "https://cricketvectors.akamaized.net/jersey/limited/org/63.png?impolicy=tj_web",
+                "batting_stats": []
+            },
+            {
+                "name": "Hunain Shah",
+                "role": "Bowler",
+                "profile_url": "https://crex.com/player/hunain-shah-9I9",
+                "head_image_url": "https://cricketvectors.akamaized.net/players/org/9I9.png?impolicy=pv_web",
+                "jersey_image_url": "https://cricketvectors.akamaized.net/jersey/limited/org/63.png?impolicy=tj_web",
+                "batting_stats": [
+                    {
+                        "Format": "PSL",
+                        "Mat": "11",
+                        "Inn": "6",
+                        "R": "9",
+                        "100s": "0",
+                        "50s": "0",
+                        "HS": "4",
+                        "SR": "64.29",
+                        "Avg": "3.00",
+                        "Fours": "1",
+                        "Sixes": "0",
+                        "Duck": "--",
+                        "Rank": "--"
+                    }
+                ]
+            },
+            {
+                "name": "Mohammad Rizwan JNR",
+                "role": "Bowler",
+                "profile_url": "https://crex.com/player/mohammad-rizwan-jnr-FQB",
+                "head_image_url": "https://cricketvectors.akamaized.net/players/org/FQB.png?impolicy=pv_web",
+                "jersey_image_url": "https://cricketvectors.akamaized.net/jersey/limited/org/63.png?impolicy=tj_web",
+                "batting_stats": []
+            },
+            {
+                "name": "Mohammad Salman",
+                "role": "Bowler",
+                "profile_url": "https://crex.com/player/mohammad-salman-LDA",
+                "head_image_url": "https://cricketvectors.akamaized.net/players/org/LDA.png?impolicy=pv_web",
+                "jersey_image_url": "https://cricketvectors.akamaized.net/jersey/limited/org/63.png?impolicy=tj_web",
+                "batting_stats": []
+            },
+            {
+                "name": "Shahrukh Ali",
+                "role": "All Rounder",
+                "profile_url": "https://crex.com/player/shahrukh-ali-FS0",
+                "head_image_url": "https://cricketvectors.akamaized.net/players/org/FS0.png?impolicy=pv_web",
+                "jersey_image_url": "https://cricketvectors.akamaized.net/jersey/limited/org/63.png?impolicy=tj_web",
+                "batting_stats": []
+            }
+        ]
+    }
+}
