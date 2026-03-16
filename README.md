@@ -1,6 +1,6 @@
-# 🏏 CricketBoardPro – Live Cricket Scraper Dashboard
+# 🏏 hemnthcricketscoreboard – Live Cricket Scraper Dashboard
 
-CricketBoardPro is a **Python-based live cricket scraping tool** that collects real-time match data and displays it in a **local web dashboard**.
+hemnthcricketscoreboard is a **Python-based live cricket scraping tool** that collects real-time match data and displays it in a **local web dashboard**.
 
 ---
 
@@ -93,8 +93,8 @@ Install using default settings.
 Once Git is installed run:
 
 ```
-git clone https://github.com/hemnthapps90/cricketboardpro.git
-cd cricketboardpro
+git clone https://github.com/hemnthapps90/hemnthcricketscoreboard.git
+cd hemnthcricketscoreboard
 ```
 
 ---
